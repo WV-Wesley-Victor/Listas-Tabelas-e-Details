@@ -5,7 +5,7 @@ Este é um repositório no GitHub dedicado ao projeto de exemplos práticos de u
   ![Captura de Tela (75)](https://github.com/WV-Wesley-Victor/Listas-Tabelas-e-Details/assets/137107062/2f27094d-d17f-46d8-ac50-578c28a27e2d)
 </div>
 <p align="center">
-  <a href="https://wv-wesley-victor.github.io/Projeto-SerDigital/" target="_blank">Clique aqui para visitar o projeto</a>
+  <a href="https://wv-wesley-victor.github.io/Listas-Tabelas-e-Details/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
 
 ## Descrição
