@@ -1,2 +1,5 @@
 # Listas Tabelas e Details
- Este é um repositório no GitHub dedicado ao projeto de exemplos práticos de uso de listas, tabelas e o elemento <details> em HTML e CSS. O objetivo deste projeto é demonstrar como estruturar e estilizar informações de maneira eficaz usando esses elementos, para melhorar a organização e a apresentação de conteúdo em páginas web.
+Este é um repositório no GitHub dedicado ao projeto de exemplos práticos de uso de listas, tabelas e o elemento details em HTML e CSS. O objetivo deste projeto é demonstrar como estruturar e estilizar informações de maneira eficaz usando esses elementos, para melhorar a organização e a apresentação de conteúdo em páginas web.
+
+## Descrição
+Este repositório no GitHub oferece exemplos práticos de como usar listas, tabelas e o elemento details em HTML e CSS para melhorar a organização e a apresentação de conteúdo em páginas da web. O objetivo é mostrar como estruturar e estilizar informações de maneira eficaz, tornando o design mais atraente e a experiência do usuário mais agradável. É um recurso valioso para designers e desenvolvedores que desejam aprimorar suas habilidades de design e organização de conteúdo na web. Explore os exemplos fornecidos para aprender a criar layouts atraentes e legíveis, destacando-se na criação de páginas da web envolventes e bem projetadas.
