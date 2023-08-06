@@ -1,0 +1,31 @@
+Vou explicar o código HTML que você forneceu:
+
+1 - <!DOCTYPE html>: Declara o tipo de documento como HTML5.
+
+2 - <html lang="pt-br">: Define a linguagem do documento como português do Brasil.
+
+3 - <head>: A seção do cabeçalho da página, onde as informações meta são definidas.
+
+    - Diversas <meta> tags: Definem várias metainformações sobre a página, como autor, descrição, palavras-chave, robôs de busca e outras configurações.
+    - <title>Tables</title>: Define o título da página exibido na guia do navegador.
+
+4 - <body>: A seção do corpo da página onde o conteúdo visível é colocado.
+
+    - <table>: Cria uma tabela.
+        - <caption>: Adiciona uma legenda para a tabela.
+        - <thead>: Define o cabeçalho da tabela.
+            - <tr>: Cria uma linha na tabela.
+                - <th>Área</th>: Cabeçalho da primeira coluna.
+                - <th>Curso</th>: Cabeçalho da segunda coluna.
+                - <th>Investimento</th>: Cabeçalho da terceira coluna.
+        - <tbody>: Define o corpo da tabela.
+            - <tr>: Cria uma linha na tabela.
+                - <td rowspan="3">Design</td>: Célula que se estende por 3 linhas, contendo "Design".
+                - <td>InDesign</td>: Célula com o nome do curso.
+                - <td>R$ 1.000,00</td>: Célula com o valor do curso.
+        - Mais <tr> e <td> elementos definindo o restante das células da tabela.
+        - <tfoot>: Define o rodapé da tabela.
+            - <tr>: Cria uma linha no rodapé.
+                - <td colspan="3">Valores sujeitos a alterações sem prévio aviso</td>: Célula que se estende por 3 colunas no rodapé, com uma mensagem de aviso.
+
+O código cria uma tabela de preços de cursos, onde cada linha representa um curso com a área, nome do curso e seu investimento. O cabeçalho da tabela mostra as informações das colunas e o rodapé exibe uma mensagem de aviso. O CSS definido no <style> é utilizado para estilizar a tabela, definindo larguras, cores e espaçamento das células.

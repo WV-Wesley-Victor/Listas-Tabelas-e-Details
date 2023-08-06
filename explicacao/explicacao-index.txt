@@ -1,0 +1,38 @@
+Vou explicar o código HTML passo a passo:
+
+1 - <!DOCTYPE html>: Declara o tipo de documento como HTML5.
+
+2 - <html lang="pt-br">: Define a linguagem do documento como português do Brasil.
+
+3 - <head>: A seção do cabeçalho da página, onde as informações meta são definidas.
+
+    - <meta charset="UTF-8">: Define a codificação de caracteres como UTF-8.
+    - <meta name="viewport" content="width=device-width, initial-scale=1.0">: Configura a visualização para dispositivos móveis.
+    - <meta name="author" content="Wesley Victor Pereira Silva">: Define o autor da página.
+    - <meta name="description" content="Descrição da página.">: Define uma breve descrição da página.
+    - <meta name="keywords" content="web design, página, details.">: Define palavras-chave relacionadas ao conteúdo da página.
+    - <meta name="robots" content="index, follow">: Define as instruções para os robôs de mecanismos de busca.
+    - <meta http-equiv="X-UA-Compatible" content="IE=edge">: Define o modo de compatibilidade com o Internet Explorer.
+    - <title>Listas aninhadas</title>: Define o título da página exibido na guia do navegador.
+
+4 - <body>: A seção do corpo da página onde o conteúdo visível é colocado.
+
+    - <ul>: Cria uma lista não ordenada (bullet points).
+        - <li>Item 1</li>: Um item da lista.
+        - <li>: Outro item da lista.
+            - Item 2: Texto exibido para o segundo item.
+            - <ul>: Uma lista não ordenada aninhada dentro do segundo item.
+                - <li>item 2.1</li>: Um item da lista aninhada.
+                - <li>item 2.2</li>: Outro item da lista aninhada.
+            - <li>Item 3</li>: Mais um item da lista.
+        - <dl>: Cria uma lista de descrição (description list).
+            - <dt>HTML</dt>: Define um termo na lista de descrição.
+            - <dd>Linguagem de marcação de hipertexto</dd>: Define a descrição associada ao termo "HTML".
+            - <dd>Usada para criar páginas na web</dd>: Outra descrição associada ao termo "HTML".
+            - <dt>CSS</dt>: Define um novo termo.
+            - <dd>Linguagem para criação de folhas de estilo em cascata</dd>: Descrição associada ao termo "CSS".
+            - <dt>Internet</dt>: Define mais um termo.
+            - <dt>www</dt>: Define um termo sem descrição, indicando que "www" está relacionado ao termo anterior.
+            - <dd>Rede mundial de computadores</dd>: Descrição associada ao termo "Internet".
+
+Nesse código, eu criei duas diferentes estruturas de listas: uma lista não ordenada (<ul>) com itens aninhados e uma lista de descrição (<dl>) com termos e descrições associadas. Isso ilustra como organizar informações em forma de listas usando HTML.
